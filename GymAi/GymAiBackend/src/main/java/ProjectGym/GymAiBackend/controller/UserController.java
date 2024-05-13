@@ -1,9 +1,9 @@
 package ProjectGym.GymAiBackend.controller;
 
 
-import com.stenfra.GymAi.models.dto.UserDto;
-import com.stenfra.GymAi.models.entity.UserEntity;
-import com.stenfra.GymAi.service.UserService.UserService;
+import ProjectGym.GymAiBackend.models.dto.UserDto;
+import ProjectGym.GymAiBackend.models.entity.UserEntity;
+import ProjectGym.GymAiBackend.service.UserService.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
